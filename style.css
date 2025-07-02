@@ -14,3 +14,34 @@
     justify-content: center;
     text-align: center;
 }
+
+.header-section h1{
+    font-size: 4rem;
+    color: green;
+    margin-bottom: 20px;
+}
+
+
+.header-section p{
+    font-size: 1.5rem;
+    color: black;
+    margin-top: 25px;
+}
+
+.btn-custom{
+    background-color: #F85604;
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: background-color 1s ease;
+
+}
+
+.btn-custom:hover{
+    background-color: green;
+    color: white;
+}
